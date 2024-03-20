@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node index"
+    "start": "npm install && node index"
   },
   "dependencies": {
     "@jaycd598/paraphrase": "^1.0.0",
